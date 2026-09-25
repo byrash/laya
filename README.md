@@ -14,3 +14,6 @@ hf download convaiinnovations/laya \
   --include "encoder/*" \
   --include "tokenizer/*"
 ```
+
+
+Source: https://github.com/NandhaKishorM/laya
