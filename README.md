@@ -4,12 +4,13 @@
 
 ---
 
-_Only English_
+*Only English*
 
-````hf download convaiinnovations/laya \
+```
+hf download convaiinnovations/laya \
   --local-dir ./models/laya-english \
   --include "model.safetensors" \
   --include "rl_agent_config.json" \
   --include "encoder/*" \
-  --include "tokenizer/*"```
-````
+  --include "tokenizer/*"
+```
