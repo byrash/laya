@@ -1,6 +1,6 @@
-*For Multi Lingual Donwlaod`
+*For Multi Lingual Donwlaod*
 
-`hf download convaiinnovations/laya --local-dir ./models`
+```hf download convaiinnovations/laya --local-dir ./models```
 
 ---
 
